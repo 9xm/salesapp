@@ -1,0 +1,3 @@
+﻿Name,Code,Barcode Symbology,Brand,Category Code,Unit Code,Sale Unit Code,Purchase Unit Code,Cost,Price,Alert Quantity,Tax Rate,Tax Method,Image,Sub category Code,Product Variants,Product Custom Field 1,Product Custom Field 2,Product Custom Field 3,Product Custom Field 4,Product Custom Field 5,Product Custom Field 6,HSN Code,Secondary Name,Supplier Name,Supplier Part No.,Supplier Price,Quantity,Details,Product Details
+s1,123456,code128,,Default Category,,,,,251,0,GST @18%,Exclusive,no_image.png,,,,,,,,,555jjg,,,,,0,,
+s2,123456,code129,,Default Category,,,,,250,0,GST @18%,Exclusive,no_image.png,,,,,,,,,ftfgctrcr,,,,,0,,
